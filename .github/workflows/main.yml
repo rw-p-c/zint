@@ -48,4 +48,3 @@ jobs:
             findings.json
             coverage.json
             web_app_address.txt
-
